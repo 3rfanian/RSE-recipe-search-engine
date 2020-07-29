@@ -2,7 +2,7 @@
   "name": "recipe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://3rfanian.github.io/RSE-recipe-search-engine/",
+  "homepage": "https://3rfanian.github.io/RSE-recipe-search-engine/.",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
