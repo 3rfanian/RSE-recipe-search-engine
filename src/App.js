@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import Recipe from './Recipes';
+import Recipe from './recipes';
 import './App.css';
 
 
@@ -70,7 +70,7 @@ const App = () => {
        ))}</div>    
        
        </div>
-  );
+         );
 
 };
 
